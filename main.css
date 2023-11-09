@@ -1,0 +1,57 @@
+.container{
+  width: 400px;
+  height: 400px;
+  border: 2px solid #daec10;
+  border-radius: 50% ;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  background-color: #daec10;
+  box-sizing: border-box;
+  gap: 20px;
+  
+}
+
+.eyes{
+    width: 50px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: black;
+    margin-top: 95px;
+    margin-left: 93px;
+}
+
+.eye_color{
+    width: 20px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #ffff;
+    margin-top: 20px;
+    margin-left: 16px;
+}
+
+.smile{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background-color: black;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.yellow_smile{
+  background-color: #daec10;
+  width: 258px;
+  height: 154px;
+  border-radius: 50%;
+  margin-left: -28px;
+  margin-top: 0;
+  
+}
+
+.container2{
+  margin-top: -218px;
+  margin-left: 653px;
+  margin-top: -248px;
+}
